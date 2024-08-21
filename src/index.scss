@@ -123,10 +123,16 @@ header {
   .logo {
     margin-right: 1rem;
     img {
-      height: 1.75rem;
+      height: 84px !important;
     }
   }
 }
+
+.learning-header {
+  height: 100px !important;
+}
+
+
 
 #learner-posts-link {
   color: inherit;
