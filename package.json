@@ -35,7 +35,7 @@
   "dependencies": {
     "@edx/brand": "npm:@edx/brand-openedx@1.1.0",
     "@edx/frontend-component-footer": "github:harmardir/frontend-component-footer#mfe-footer-dist-01",
-    "@edx/frontend-component-header": "4.0.0",
+    "@edx/frontend-component-header": "github:harmardir/frontend-component-header#branch-08",
     "@edx/frontend-platform": "4.2.0",
     "@edx/paragon": "20.15.0",
     "@reduxjs/toolkit": "1.8.0",
