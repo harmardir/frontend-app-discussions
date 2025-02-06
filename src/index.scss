@@ -8,6 +8,8 @@
 
 $fa-font-path: "~font-awesome/fonts";
 @import "~font-awesome/scss/font-awesome";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;500;600;700&display=swap');
 
 #post,
 #comment,
@@ -174,7 +176,7 @@ header {
 
 header {
   line-height: 28px;
-  font-family: Inter, Helvetica Neue, Arial, sans-serif;
+  font-family: "Noto Kufi Arabic";
   font-size: 18px;
   height: 60px;
 
@@ -211,7 +213,7 @@ header {
 
 #courseTabsNavigation {
   font-size: 18px;
-  font-family: Inter, Helvetica Neue, Arial, sans-serif;
+  font-family: "Noto Kufi Arabic";
 
   .container-xl {
     padding-left: 31px;
